@@ -93,7 +93,7 @@ defusedxml==0.7.1
     #   djangorestframework-xml
 deprecated==1.2.14
     # via jwcrypto
-django==4.1.10
+django==4.2.4
     # via
     #   -r requirements/requirements.in
     #   datapunt-authorization-django
